@@ -1,6 +1,6 @@
  @extends('layouts.main')
 @section('pagetitle')
-  Prediction-Dashboard
+  Dashboard
 @endsection
 @section('content')
 
