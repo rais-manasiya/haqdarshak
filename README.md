@@ -101,5 +101,5 @@ Credentials for login : email=rais@example.com password=123456789
  
 To fetch all participants
 
-    GET http://localhost:8000/beneficiaries
+    http://localhost:8000/beneficiaries
    
